@@ -17,7 +17,7 @@
 
 Hey there! I'm **InfortX**.
 
-I'm a **Byronic** person who spends most of the time reading documentation instead of writing code, and the rest of the time writing code that doesn't need documentation. Minimalist dark themes, clean commits, no clutter.
+I'm a **Byronic Triad** person who spends most of the time reading documentation instead of writing code, and the rest of the time writing code that doesn't need documentation. Minimalist dark themes, clean commits, no clutter.
 
 <br>
 
