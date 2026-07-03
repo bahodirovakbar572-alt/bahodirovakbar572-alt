@@ -1,42 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=200&section=header&text=YourName!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Branch%20out.%20Merge%20greatness.&descAlignY=55&descSize=18" width="100%"/>
+<!-- Bu yerga o'zingizning banner rasmingizni qo'yasiz -->
+<img src="banner.png" width="100%" alt="banner" />
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=white&labelColor=0d1117" />
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME?style=flat-square&color=white&labelColor=0d1117" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=white&labelColor=0d1117" />
+<br><br>
+
+<img src="https://img.shields.io/badge/stars-11-white?style=flat-square&labelColor=000000&color=000000&logo=none" />
+<img src="https://img.shields.io/badge/forks-0-white?style=flat-square&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/badge/followers-3-white?style=flat-square&labelColor=000000&color=000000" />
 
 </div>
 
 <br>
 
-## 📌 Know About Me
+## Know About Me
 
-<img align="left" width="140" src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png" />
+Hey there! I'm **InfortX**.
 
-Hey there! I'm **YourName** 👋  
-I'm a **Your Field** enthusiast fueled by coffee and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write code to automate myself out of doing actual work. When I'm not coding, I'm usually [your hobby].
+I'm a **Your Field** person who spends most of the time reading documentation instead of writing code, and the rest of the time writing code that doesn't need documentation. Minimalist dark themes, clean commits, no clutter.
 
-<br clear="left"/>
+<br>
 
----
+## Top Projects
 
-## 🔥 Top Projects (built to avoid manual labor)
+| Project | Description |
+|---|---|
+| **[ProjectOne](https://github.com/bahodirovakbar572-alt/wiki-info)** | Information Base |
+| **[ProjectTwo](https://github.com/bahodirovakbar572-alt/readify)** | Online free books |
+| **[ProjectThree](https://github.com/bahodirovakbar572-alt/my-id-bot)** | this bot give your telegram profile id |
 
-- 🔗 **[ProjectOne](https://github.com/YOUR_USERNAME/project-one)** — Short description here.
-- 🔗 **[ProjectTwo](https://github.com/YOUR_USERNAME/project-two)** — Short description here.
-- 🔗 **[ProjectThree](https://github.com/YOUR_USERNAME/project-three)** — Short description here.
+<br>
 
----
-
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
+<a href="https://github.com/bahodirovakbar572-alt"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akbar-bahodirov-54047a406/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bahodirovakbar572l@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -44,18 +45,20 @@ I'm a **Your Field** enthusiast fueled by coffee and an unhealthy obsession with
 
 > Code is never finished. It only becomes slightly less terrible over time.
 >
-> Every commit I make is essentially a small, desperate apology to my future self.
+> Every commit is essentially a small apology to my future self.
 
----
+<br>
 
-## 📊 Contribution
+## Contribution
 
 <div align="center">
 
-![Your Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true" width="100%" />
 
 </div>
 
+<br>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=100&section=footer" width="100%"/>
+<sub>Branch out. Merge greatness.</sub>
 </div>
