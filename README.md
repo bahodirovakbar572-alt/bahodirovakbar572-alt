@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Bu yerga o'zingizning banner rasmingizni qo'yasiz -->
-<img src="banner.png" width="100%" alt="banner" />
+<img src="banner.jpg" width="100%" alt="banner" />
 
 <br><br>
 
