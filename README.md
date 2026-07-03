@@ -25,9 +25,9 @@ I'm a **Your Field** person who spends most of the time reading documentation in
 
 | Project | Description |
 |---|---|
-| **[ProjectOne](https://github.com/bahodirovakbar572-alt/wiki-info)** | Information Base |
-| **[ProjectTwo](https://github.com/bahodirovakbar572-alt/readify)** | Online free books |
-| **[ProjectThree](https://github.com/bahodirovakbar572-alt/my-id-bot)** | this bot give your telegram profile id |
+| **[Wiki-Info](https://github.com/bahodirovakbar572-alt/wiki-info)** | Information Base |
+| **[Readify](https://github.com/bahodirovakbar572-alt/readify)** | Online free books |
+| **[My Id](https://github.com/bahodirovakbar572-alt/my-id-bot)** | this bot give your telegram profile id |
 
 <br>
 
