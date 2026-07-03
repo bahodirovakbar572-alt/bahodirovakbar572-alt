@@ -5,9 +5,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/stars-11-white?style=flat-square&labelColor=000000&color=000000&logo=none" />
+<img src="https://img.shields.io/badge/stars-1-white?style=flat-square&labelColor=000000&color=000000&logo=none" />
 <img src="https://img.shields.io/badge/forks-0-white?style=flat-square&labelColor=000000&color=000000" />
-<img src="https://img.shields.io/badge/followers-3-white?style=flat-square&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/badge/followers-0-white?style=flat-square&labelColor=000000&color=000000" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 Hey there! I'm **InfortX**.
 
-I'm a **Your Field** person who spends most of the time reading documentation instead of writing code, and the rest of the time writing code that doesn't need documentation. Minimalist dark themes, clean commits, no clutter.
+I'm a **Byronic** person who spends most of the time reading documentation instead of writing code, and the rest of the time writing code that doesn't need documentation. Minimalist dark themes, clean commits, no clutter.
 
 <br>
 
